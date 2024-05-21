@@ -14,99 +14,99 @@ export const CLIENTS = [
 
 export const USERS = [
   {
-    name: 'Alice',
+    name: 'Aniket',
     message:
-      'Cypress has been a game-changer for our team. With its reliable end-to-end testing, we catch bugs early, leading to faster development cycles and improved collaboration.',
+      'Multi-Lab has been a game-changer for our team. With its reliable end-to-end testing, we catch bugs early, leading to faster development cycles and improved collaboration.',
   },
   {
-    name: 'Bob',
+    name: 'Vaibhav',
     message:
-      "I used to spend hours debugging frontend issues, but Cypress simplified everything. Now, I'm more productive, and my colleagues can trust our code thanks to Cypress.",
+      "I used to spend hours debugging frontend issues, but Multi-Lab simplified everything. Now, I'm more productive, and my colleagues can trust our code thanks to Multi-Lab.",
   },
   {
-    name: 'Charlie',
+    name: 'Yash',
     message:
-      "Cypress has transformed the way we work. Our QA and development teams are on the same page, and our productivity has skyrocketed. It's a must-have tool.",
+      "Multi-Lab has transformed the way we work. Our QA and development teams are on the same page, and our productivity has skyrocketed. It's a must-have tool.",
   },
   {
-    name: 'David',
+    name: 'Mangesh',
     message:
-      'I was skeptical at first, but Cypress exceeded my expectations. Our project timelines have improved, and collaboration between teams is seamless.',
+      'I was skeptical at first, but Multi-Lab exceeded my expectations. Our project timelines have improved, and collaboration between teams is seamless.',
   },
   {
-    name: 'Ella',
+    name: 'Bhagyesh',
     message:
-      "Cypress made writing and running tests a breeze. Our team's productivity has never been higher, and we're delivering more reliable software.",
+      "Multi-Lab made writing and running tests a breeze. Our team's productivity has never been higher, and we're delivering more reliable software.",
   },
   {
-    name: 'Frank',
+    name: 'Govind',
     message:
-      "Thanks to Cypress, we've eliminated testing bottlenecks. Our developers and testers collaborate effortlessly, resulting in quicker releases.",
+      "Thanks to Multi-Lab, we've eliminated testing bottlenecks. Our developers and testers collaborate effortlessly, resulting in quicker releases.",
   },
   {
-    name: 'Grace',
+    name: 'Atharv',
     message:
-      'Cypress has improved our development process significantly. We now have more time for innovation, and our products are of higher quality.',
+      'Multi-Lab has improved our development process significantly. We now have more time for innovation, and our products are of higher quality.',
   },
   {
-    name: 'Hank',
+    name: 'Krishna',
     message:
-      "Cypress's user-friendly interface made it easy for our non-technical team members to contribute to testing. Our workflow is much more efficient now.",
+      "Multi-Lab's user-friendly interface made it easy for our non-technical team members to contribute to testing. Our workflow is much more efficient now.",
   },
   {
-    name: 'Ivy',
+    name: 'Amol',
     message:
-      "Our team's collaboration improved immensely with Cypress. We catch issues early, leading to less friction and quicker feature deployments.",
+      "Our team's collaboration improved immensely with Multi-Lab. We catch issues early, leading to less friction and quicker feature deployments.",
   },
   {
-    name: 'Jack',
+    name: 'Vaishnavi',
     message:
-      "Cypress's robust testing capabilities have elevated our development standards. We work more harmoniously, and our releases are more reliable.",
+      "Multi-Lab's robust testing capabilities have elevated our development standards. We work more harmoniously, and our releases are more reliable.",
   },
   {
-    name: 'Katherine',
+    name: 'Karan',
     message:
-      "Cypress is a lifesaver for our cross-functional teams. We're more productive, and there's a shared sense of responsibility for product quality.",
+      "Multi-Lab is a lifesaver for our cross-functional teams. We're more productive, and there's a shared sense of responsibility for product quality.",
   },
   {
-    name: 'Liam',
+    name: 'Siddhant',
     message:
-      "Cypress has helped us maintain high standards of quality. Our team's collaboration has improved, resulting in faster development cycles.",
+      "Multi-Lab has helped us maintain high standards of quality. Our team's collaboration has improved, resulting in faster development cycles.",
   },
   {
-    name: 'Mia',
+    name: 'Hrushab',
     message:
-      "Cypress is a powerful tool that improved our productivity and collaboration. It's now an integral part of our development process.",
+      "Multi-Lab is a powerful tool that improved our productivity and collaboration. It's now an integral part of our development process.",
   },
   {
-    name: 'Nathan',
+    name: 'Shivam',
     message:
-      "Cypress's user-friendly interface and detailed reporting have made testing a breeze. Our team's productivity is at an all-time high.",
+      "Multi-Lab's user-friendly interface and detailed reporting have made testing a breeze. Our team's productivity is at an all-time high.",
   },
   {
-    name: 'Olivia',
+    name: 'Rohit',
     message:
-      "We saw immediate benefits in terms of productivity and collaboration after adopting Cypress. It's an essential tool for our development workflow.",
+      "We saw immediate benefits in terms of productivity and collaboration after adopting Multi-Lab. It's an essential tool for our development workflow.",
   },
   {
-    name: 'Paul',
+    name: 'Narendra',
     message:
-      "Cypress has streamlined our testing process and brought our teams closer. We're more efficient and deliver better results.",
+      "Multi-Lab has streamlined our testing process and brought our teams closer. We're more efficient and deliver better results.",
   },
   {
-    name: 'Quinn',
+    name: 'Manish',
     message:
-      'Cypress has been a game-changer for us. Our productivity and collaboration have improved significantly, leading to better software.',
+      'Multi-Lab has been a game-changer for us. Our productivity and collaboration have improved significantly, leading to better software.',
   },
   {
-    name: 'Rachel',
+    name: 'Chandu',
     message:
-      'Thanks to Cypress, our testing process is now a seamless part of our development cycle. Our teams collaborate effortlessly.',
+      'Thanks to Multi-Lab, our testing process is now a seamless part of our development cycle. Our teams collaborate effortlessly.',
   },
   {
-    name: 'Sam',
+    name: 'Amey',
     message:
-      'Cypress is a fantastic tool that has revolutionized our workflow. Our productivity and collaboration have reached new heights.',
+      'Multi-Lab is a fantastic tool that has revolutionized our workflow. Our productivity and collaboration have reached new heights.',
   },
 ];
 

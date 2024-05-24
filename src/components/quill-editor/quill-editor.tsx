@@ -207,16 +207,15 @@ const QuillEditor: React.FC<QuillEditorProps> = ({
       router.replace(`/dashboard/${workspaceId}`);
     }
     if (dirType === 'folder') {
-      if (!workspaceId) return;
+      if (!workspaceId || !folderId) return;
       dispatch({
         type: 'DELETE_FOLDER',
-        payload: { folderId: fileId, workspaceId },
+        payload: {  workspaceId, folderId },
       });
-      await deleteFolder(fileId);
+      await deleteFolder(folderId);
       router.replace(`/dashboard/${workspaceId}`);
     }
   };
-
   const iconOnChange = async (icon: string) => {
     if (!fileId) return;
     if (dirType === 'workspace') {

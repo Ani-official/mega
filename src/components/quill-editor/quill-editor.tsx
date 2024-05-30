@@ -59,8 +59,12 @@ var TOOLBAR_OPTIONS = [
   [{ color: [] }, { background: [] }], // dropdown with defaults from theme
   [{ font: [] }],
   [{ align: [] }],
-
+  [{ formula: 'formula' }],
   ['clean'], // remove formatting button
+  ['link', 'image', 'video'], 
+  ['table'],
+ 
+  
 ];
 
 const QuillEditor: React.FC<QuillEditorProps> = ({
